@@ -29,7 +29,8 @@
             <Array as="points">
               <mxPoint x="140" y="760" />
               <mxPoint x="380" y="760" />
-              <mxPoint x="380" y="920" />
+              <mxPoint x="560" y="1270" />
+              <mxPoint x="140" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>
