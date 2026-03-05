@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-4" value="&lt;div&gt;Train Global surrogate RBF&lt;/div&gt;&lt;div&gt;on top-gs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="390" width="180" height="60" as="geometry" />
+          <mxGeometry x="455" y="350" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-5" target="W4r63T8fYriRBTyh2WbS-7">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-28" value="0.3＜P ≤ 0.8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W4r63T8fYriRBTyh2WbS-25">
           <mxGeometry x="-0.36" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-2" as="offset" />
+            <mxPoint x="1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-5" target="W4r63T8fYriRBTyh2WbS-9">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-5" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Progress P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="490" width="80" height="130" as="geometry" />
+          <mxGeometry x="505" y="450" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-7" value="&lt;div&gt;Generation based&lt;/div&gt;&lt;div&gt;Standard SLPSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="680" width="130" height="40" as="geometry" />
