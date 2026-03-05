@@ -207,8 +207,8 @@
         <mxCell id="ZZryyJ_7L8BeaojI315V-24" value="&lt;div&gt;Stop Condition?&lt;/div&gt;&lt;div&gt;NFE &amp;gt;= MaxFEs&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2130" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZZryyJ_7L8BeaojI315V-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="2290" width="120" height="60" as="geometry" />
+        <mxCell id="ZZryyJ_7L8BeaojI315V-26" value="Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="2310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
