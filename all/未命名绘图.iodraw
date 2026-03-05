@@ -147,7 +147,7 @@
           <mxGeometry x="485" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-5" value="DB update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1550" width="120" height="40" as="geometry" />
+          <mxGeometry x="485" y="1550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-52" target="W4r63T8fYriRBTyh2WbS-55">
           <mxGeometry relative="1" as="geometry" />
@@ -193,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-24" value="&lt;div&gt;Stop Condition?&lt;/div&gt;&lt;div&gt;NFE &amp;gt;= MaxFEs&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1810" width="130" height="130" as="geometry" />
+          <mxGeometry x="615" y="1560" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-26" value="Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="2290" width="120" height="60" as="geometry" />
