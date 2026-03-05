@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-13" value="DB update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="910" width="85" height="40" as="geometry" />
+          <mxGeometry x="502.5" y="880" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-2" target="W4r63T8fYriRBTyh2WbS-3">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-51" value="&lt;div&gt;Train Local surrogate RBF&lt;/div&gt;&lt;div&gt;on top-ls&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1210" width="160" height="60" as="geometry" />
+          <mxGeometry x="465" y="950" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-52" target="W4r63T8fYriRBTyh2WbS-53">
           <mxGeometry relative="1" as="geometry" />
