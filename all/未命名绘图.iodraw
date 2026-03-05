@@ -113,7 +113,7 @@
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W4r63T8fYriRBTyh2WbS-42">
           <mxGeometry x="0.3351" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="12" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-51" target="W4r63T8fYriRBTyh2WbS-52">
@@ -147,13 +147,13 @@
           <mxGeometry x="300" y="1670" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-3" value="Add Gaussian Noise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1820" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-4" value="Exact fitness evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1870" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-5" value="DB update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-52" target="W4r63T8fYriRBTyh2WbS-55">
           <mxGeometry relative="1" as="geometry" />
