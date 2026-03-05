@@ -17,7 +17,7 @@
           <mxGeometry x="490" y="260" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-4" value="&lt;div&gt;Train Global surrogate RBF&lt;/div&gt;&lt;div&gt;on top-gs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="360" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-5" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Progress P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="520" width="80" height="100" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-13" value="DB update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4r63T8fYriRBTyh2WbS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-2" target="W4r63T8fYriRBTyh2WbS-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
