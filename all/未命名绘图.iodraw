@@ -123,13 +123,16 @@
           <mxGeometry x="300" y="1350" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-53" value="&lt;div&gt;Generation based&lt;/div&gt;&lt;div&gt;Standard FPSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-54" value="&lt;div&gt;FPSO + Adaptive&lt;/div&gt;&lt;div&gt;Perturbation&lt;/div&gt;&lt;div&gt;T=0.2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-55" value="Deep FPSO&lt;div&gt;T=0.05, Iter=100D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZryyJ_7L8BeaojI315V-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1630" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
