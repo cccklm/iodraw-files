@@ -64,7 +64,7 @@
         <mxCell id="W4r63T8fYriRBTyh2WbS-9" value="&lt;div&gt;SLPSO + ACG&lt;/div&gt;&lt;div&gt;T=0.05&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W4r63T8fYriRBTyh2WbS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-10">
+        <mxCell id="W4r63T8fYriRBTyh2WbS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-10" target="W4r63T8fYriRBTyh2WbS-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="1080" as="targetPoint" />
           </mxGeometry>
@@ -79,7 +79,7 @@
           <mxGeometry x="200" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-12" value="Exact fitness evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-13" value="DB update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1190" width="120" height="60" as="geometry" />
