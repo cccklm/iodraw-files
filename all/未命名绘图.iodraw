@@ -93,17 +93,6 @@
         <mxCell id="W4r63T8fYriRBTyh2WbS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-2" target="W4r63T8fYriRBTyh2WbS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W4r63T8fYriRBTyh2WbS-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="W4r63T8fYriRBTyh2WbS-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="870" as="sourcePoint" />
-            <mxPoint x="260" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W4r63T8fYriRBTyh2WbS-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W4r63T8fYriRBTyh2WbS-42">
-          <mxGeometry x="0.3351" y="-3" relative="1" as="geometry">
-            <mxPoint x="12" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-51" target="W4r63T8fYriRBTyh2WbS-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -210,6 +199,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="2090" as="sourcePoint" />
             <mxPoint x="410" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZryyJ_7L8BeaojI315V-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="W4r63T8fYriRBTyh2WbS-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="890" as="sourcePoint" />
+            <mxPoint x="570" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
