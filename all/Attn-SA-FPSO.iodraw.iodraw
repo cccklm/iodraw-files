@@ -247,7 +247,7 @@
           <mxGeometry x="285" y="860" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-58" value="Global Search&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Phase&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="150" width="180" height="30" as="geometry" />
+          <mxGeometry x="285" y="150" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
