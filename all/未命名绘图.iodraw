@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-52" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Progress P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1040" width="120" height="120" as="geometry" />
+          <mxGeometry x="492.5" y="1040" width="105" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-53" value="&lt;div&gt;Generation based&lt;/div&gt;&lt;div&gt;Standard FPSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1210" width="120" height="60" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-2" value="&lt;div&gt;Duplicate&lt;/div&gt;&lt;div&gt;in DB?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1300" width="105" height="110" as="geometry" />
+          <mxGeometry x="492.5" y="1300" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZryyJ_7L8BeaojI315V-3" target="ZZryyJ_7L8BeaojI315V-4">
           <mxGeometry relative="1" as="geometry" />
