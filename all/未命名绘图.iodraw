@@ -135,10 +135,10 @@
           <mxGeometry x="150" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-54" value="&lt;div&gt;FPSO + Adaptive&lt;/div&gt;&lt;div&gt;Perturbation&lt;/div&gt;&lt;div&gt;T=0.2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-55" value="Deep FPSO&lt;div&gt;T=0.05, Iter=100D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-2" value="&lt;div&gt;Duplicate&lt;/div&gt;&lt;div&gt;in DB?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1610" width="120" height="120" as="geometry" />
@@ -156,10 +156,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-10" value="P ≤ 0.3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210.00458050147833" y="1480.0009468955845" as="geometry" />
+          <mxGeometry x="210.00458050147833" y="1490.0009468955845" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-11" value="0.3＜P ≤ 0.8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="1489.997142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZryyJ_7L8BeaojI315V-12" value="P＞0.8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="635.4285714285716" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
