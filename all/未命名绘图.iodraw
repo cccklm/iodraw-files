@@ -50,10 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-5" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Progress P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="500" width="80" height="120" as="geometry" />
+          <mxGeometry x="505" y="490" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-7" value="&lt;div&gt;Generation based&lt;/div&gt;&lt;div&gt;Standard SLPSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="670" width="130" height="60" as="geometry" />
+          <mxGeometry x="330" y="680" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-8" target="W4r63T8fYriRBTyh2WbS-10">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="485" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-9" value="&lt;div&gt;SLPSO + ACG&lt;/div&gt;&lt;div&gt;T=0.05&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-10" target="W4r63T8fYriRBTyh2WbS-12">
           <mxGeometry relative="1" as="geometry" />
