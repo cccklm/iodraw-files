@@ -118,10 +118,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-54" value="&lt;div&gt;FPSO + Adaptive&lt;/div&gt;&lt;div&gt;Perturbation&lt;/div&gt;&lt;div&gt;T=0.2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-55" value="Deep FPSO&lt;div&gt;T=0.05, Iter=100D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="625" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZryyJ_7L8BeaojI315V-2" target="ZZryyJ_7L8BeaojI315V-4">
           <mxGeometry relative="1" as="geometry" />
