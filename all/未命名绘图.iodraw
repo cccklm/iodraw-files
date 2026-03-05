@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-52" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Progress P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1320" width="120" height="120" as="geometry" />
+          <mxGeometry x="485" y="1040" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-53" value="&lt;div&gt;Generation based&lt;/div&gt;&lt;div&gt;Standard FPSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="1530" width="120" height="60" as="geometry" />
