@@ -85,10 +85,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-12" value="Exact fitness evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-13" value="DB update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4r63T8fYriRBTyh2WbS-2" target="W4r63T8fYriRBTyh2WbS-3">
           <mxGeometry relative="1" as="geometry" />
