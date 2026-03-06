@@ -120,7 +120,7 @@
         <mxCell id="W4r63T8fYriRBTyh2WbS-54" value="&lt;div&gt;FPSO + 自适应微扰&lt;/div&gt;&lt;div&gt;(T=0.2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W4r63T8fYriRBTyh2WbS-55" value="Deep FPSO&lt;div&gt;T=0.05, Iter=100D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W4r63T8fYriRBTyh2WbS-55" value="&lt;div&gt;深度 FPSO 极限剥削&lt;/div&gt;&lt;div&gt;(T=0.05, Iter=100D)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZZryyJ_7L8BeaojI315V-2" target="ZZryyJ_7L8BeaojI315V-4" edge="1">
@@ -131,7 +131,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZZryyJ_7L8BeaojI315V-2" value="&lt;div&gt;Duplicate&lt;/div&gt;&lt;div&gt;in DB?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZZryyJ_7L8BeaojI315V-2" value="&lt;div&gt;候选解在DB&lt;/div&gt;&lt;div&gt;中是否重复?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="492.5" y="1220" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZZryyJ_7L8BeaojI315V-3" target="ZZryyJ_7L8BeaojI315V-4" edge="1">
