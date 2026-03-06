@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="QplBrrto8ZNAtiI0q-6_">
-    <mxGraphModel dx="2847" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
         <mxCell id="ZZryyJ_7L8BeaojI315V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W4r63T8fYriRBTyh2WbS-51" target="W4r63T8fYriRBTyh2WbS-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W4r63T8fYriRBTyh2WbS-51" value="&lt;div&gt;Train Local surrogate RBF&lt;/div&gt;&lt;div&gt;on top-ls&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W4r63T8fYriRBTyh2WbS-51" value="&lt;div&gt;提取前 ls 个最优样本&lt;/div&gt;&lt;div&gt;训练局部 RBF 代理模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="890" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZryyJ_7L8BeaojI315V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W4r63T8fYriRBTyh2WbS-52" target="W4r63T8fYriRBTyh2WbS-53" edge="1">
@@ -108,7 +108,7 @@
         <mxCell id="ZZryyJ_7L8BeaojI315V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W4r63T8fYriRBTyh2WbS-52" target="W4r63T8fYriRBTyh2WbS-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W4r63T8fYriRBTyh2WbS-52" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Progress P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W4r63T8fYriRBTyh2WbS-52" value="&lt;div&gt;计算评估&lt;/div&gt;&lt;div&gt;进度 P&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="492.5" y="970" width="105" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W4r63T8fYriRBTyh2WbS-53" value="&lt;div&gt;Generation based&lt;/div&gt;&lt;div&gt;Standard FPSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
