@@ -115,8 +115,8 @@
             <mxPoint x="210" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rluminSocMt2Y-uBB-s3-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="rluminSocMt2Y-uBB-s3-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
