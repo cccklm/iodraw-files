@@ -124,13 +124,13 @@
         <mxCell id="vva9KFdmV13MwOoE6HHt-33" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;. . .&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="630" y="345" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="vva9KFdmV13MwOoE6HHt-37" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;dashed=1;strokeColor=#000000;strokeWidth=2;dashPattern=1 1;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="vva9KFdmV13MwOoE6HHt-37" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;dashed=1;strokeColor=#000000;strokeWidth=2;dashPattern=1 1;perimeterSpacing=2;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="180" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vva9KFdmV13MwOoE6HHt-38" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;dashed=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vva9KFdmV13MwOoE6HHt-38" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;dashed=1;strokeColor=#000000;strokeWidth=2;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="380" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vva9KFdmV13MwOoE6HHt-39" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;dashed=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vva9KFdmV13MwOoE6HHt-39" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;dashed=1;strokeColor=#000000;strokeWidth=2;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="585" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
