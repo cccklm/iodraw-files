@@ -81,7 +81,7 @@
         </mxCell>
         <mxCell id="rluminSocMt2Y-uBB-s3-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.001;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rluminSocMt2Y-uBB-s3-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="340" as="sourcePoint" />
+            <mxPoint x="640" y="280" as="sourcePoint" />
             <mxPoint x="210" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
