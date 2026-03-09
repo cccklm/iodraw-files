@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vva9KFdmV13MwOoE6HHt-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vva9KFdmV13MwOoE6HHt-1" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left; background-color: rgb(246, 248, 250);&quot;&gt;LaTeX \(\sqrt{3×-1}+(1+x)^2\) and AsciiMath `a^b + b^2 = c^2`&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vva9KFdmV13MwOoE6HHt-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
