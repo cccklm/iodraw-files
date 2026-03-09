@@ -28,6 +28,9 @@
         <mxCell id="vva9KFdmV13MwOoE6HHt-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;. . .&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="280" y="385" width="60" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="vva9KFdmV13MwOoE6HHt-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;. . .&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="395" width="60" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
