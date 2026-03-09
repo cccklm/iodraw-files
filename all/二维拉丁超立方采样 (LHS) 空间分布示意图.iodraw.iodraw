@@ -28,7 +28,7 @@
         <mxCell id="rluminSocMt2Y-uBB-s3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.128;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rluminSocMt2Y-uBB-s3-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="310" as="sourcePoint" />
-            <mxPoint x="400" y="260" as="targetPoint" />
+            <mxPoint x="396" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
