@@ -20,13 +20,13 @@
           <mxGeometry x="440" y="400" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-6" value="更新位置和速度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="440" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-7" value="Iter &amp;gt; max_iter" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="445" y="480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-8" value="Iter=Iter+1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-9" value="输出最优值和迭代次数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="720" y="530" width="120" height="60" as="geometry" />
