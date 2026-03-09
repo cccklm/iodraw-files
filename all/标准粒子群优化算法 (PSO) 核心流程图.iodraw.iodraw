@@ -26,10 +26,10 @@
           <mxGeometry x="445" y="480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-8" value="Iter=Iter+1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="460" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-9" value="输出最优值和迭代次数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="530" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="630" width="120" height="60" as="geometry" />
