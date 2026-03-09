@@ -16,7 +16,7 @@
         <mxCell id="qmSlY4MJ-PTn048bsjC8-4" value="计算目标函数值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmSlY4MJ-PTn048bsjC8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qmSlY4MJ-PTn048bsjC8-5" value="更新pbest和gbest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
