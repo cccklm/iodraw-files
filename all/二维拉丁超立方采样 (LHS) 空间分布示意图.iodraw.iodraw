@@ -46,7 +46,13 @@
         <mxCell id="rluminSocMt2Y-uBB-s3-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="560.0014285714285" as="sourcePoint" />
-            <mxPoint x="280" y="99.43" as="targetPoint" />
+            <mxPoint x="280" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rluminSocMt2Y-uBB-s3-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="340" as="sourcePoint" />
+            <mxPoint x="320" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
