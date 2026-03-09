@@ -57,10 +57,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-9" value="输出最优解与最优适应度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="730" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmSlY4MJ-PTn048bsjC8-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="740" y="540" width="100" height="50" as="geometry" />
+          <mxGeometry x="740" y="570" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
