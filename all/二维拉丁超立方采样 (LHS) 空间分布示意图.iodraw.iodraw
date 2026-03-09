@@ -7,7 +7,7 @@
         <mxCell id="rluminSocMt2Y-uBB-s3-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="360" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="rluminSocMt2Y-uBB-s3-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.114;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rluminSocMt2Y-uBB-s3-3">
+        <mxCell id="rluminSocMt2Y-uBB-s3-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.094;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.106;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rluminSocMt2Y-uBB-s3-3" target="rluminSocMt2Y-uBB-s3-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="400" as="sourcePoint" />
             <mxPoint x="110" y="320" as="targetPoint" />
