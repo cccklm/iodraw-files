@@ -136,8 +136,11 @@
         <mxCell id="rluminSocMt2Y-uBB-s3-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="370" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rluminSocMt2Y-uBB-s3-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="20" height="20" as="geometry" />
+        <mxCell id="rluminSocMt2Y-uBB-s3-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rluminSocMt2Y-uBB-s3-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="210" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
