@@ -74,7 +74,10 @@
         <mxCell id="qmSlY4MJ-PTn048bsjC8-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qmSlY4MJ-PTn048bsjC8-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="510" as="sourcePoint" />
-            <mxPoint x="210" y="460" as="targetPoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
