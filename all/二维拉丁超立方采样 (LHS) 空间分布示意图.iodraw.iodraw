@@ -97,7 +97,7 @@
             <mxPoint x="240.00000000000009" y="399.19999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rluminSocMt2Y-uBB-s3-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rluminSocMt2Y-uBB-s3-19">
+        <mxCell id="rluminSocMt2Y-uBB-s3-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.697;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rluminSocMt2Y-uBB-s3-19" target="rluminSocMt2Y-uBB-s3-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="510" as="sourcePoint" />
             <mxPoint x="200" y="460" as="targetPoint" />
